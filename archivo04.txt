@@ -2,5 +2,7 @@ Otra linea 1 de texto
 Otra lines 2 de texto
 correcion 01 + adcional
 ajuste 01-main
+ajuste 1-login
 ajuste 02-main
+ajuste 2-login
 ajuste 03-main
