@@ -1,3 +1,6 @@
 Otra linea 1 de texto
 Otra lines 2 de texto
 correcion 01 + adcional
+ajuste 01-main
+ajuste 02-main
+ajuste 03-main
